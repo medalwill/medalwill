@@ -1,3 +1,4 @@
+![medalwill' Profile](https://github-readme-stats.vercel.app/api?username=medalwill&count_private=true&show_icons=true)
 ### Hi there 👋
 
 <!--
