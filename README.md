@@ -4,12 +4,12 @@
 - Contact: medalwill@stu.xmu.edu.cn
 
 ### 📖 Learning:
-- Face Completion, Multi-exposure Image Fusion
+- Face Completion, Multi-exposure Image Fusion, Digital Human
 - Deep Learning (Pytorch)
 - A little Java and Vue
 
 ### 🎲 Hobbies:
-- CSGO
+- CSGO, PUBG
 - Music and Films
 - Enjoy My Life😊
 
